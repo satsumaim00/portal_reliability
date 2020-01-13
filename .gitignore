@@ -1,0 +1,12 @@
+*.pyc
+*~
+__pycache__/
+myvenv/
+venv/
+db.sqlite3
+.DS_Store
+.vscode/
+*.log
+_mysql/
+**/migrations/*.py
+!__init__.py

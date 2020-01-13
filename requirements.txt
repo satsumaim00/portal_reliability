@@ -1,0 +1,18 @@
+Django
+mysqlclient
+gunicorn
+PyMySQL
+SQLAlchemy
+ipython
+matplotlib
+numpy
+pandas
+pandasql
+urllib3
+selenium
+# tensorflow
+# Keras
+scikit-learn
+cryptography
+beautifulsoup4
+lxml
